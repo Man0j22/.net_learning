@@ -1,0 +1,15 @@
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\bin\Debug\net6.0\2.ReadAndWrite.exe
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\bin\Debug\net6.0\2.ReadAndWrite.deps.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\bin\Debug\net6.0\2.ReadAndWrite.runtimeconfig.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\bin\Debug\net6.0\2.ReadAndWrite.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\bin\Debug\net6.0\2.ReadAndWrite.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\obj\Debug\net6.0\2.ReadAndWrite.csproj.AssemblyReference.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\obj\Debug\net6.0\2.ReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\obj\Debug\net6.0\2.ReadAndWrite.AssemblyInfoInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\obj\Debug\net6.0\2.ReadAndWrite.AssemblyInfo.cs
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\obj\Debug\net6.0\2.ReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\obj\Debug\net6.0\2.ReadAndWrite.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\obj\Debug\net6.0\refint\2.ReadAndWrite.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\obj\Debug\net6.0\2.ReadAndWrite.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\obj\Debug\net6.0\2.ReadAndWrite.genruntimeconfig.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\ReadAndWrite\obj\Debug\net6.0\ref\2.ReadAndWrite.dll

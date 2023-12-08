@@ -1,0 +1,15 @@
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\bin\Debug\net6.0\3.BuiltInDataTypes.exe
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\bin\Debug\net6.0\3.BuiltInDataTypes.deps.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\bin\Debug\net6.0\3.BuiltInDataTypes.runtimeconfig.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\bin\Debug\net6.0\3.BuiltInDataTypes.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\bin\Debug\net6.0\3.BuiltInDataTypes.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\obj\Debug\net6.0\3.BuiltInDataTypes.csproj.AssemblyReference.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\obj\Debug\net6.0\3.BuiltInDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\obj\Debug\net6.0\3.BuiltInDataTypes.AssemblyInfoInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\obj\Debug\net6.0\3.BuiltInDataTypes.AssemblyInfo.cs
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\obj\Debug\net6.0\3.BuiltInDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\obj\Debug\net6.0\3.BuiltInDataTypes.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\obj\Debug\net6.0\refint\3.BuiltInDataTypes.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\obj\Debug\net6.0\3.BuiltInDataTypes.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\obj\Debug\net6.0\3.BuiltInDataTypes.genruntimeconfig.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\BuiltInDataTypes\obj\Debug\net6.0\ref\3.BuiltInDataTypes.dll
