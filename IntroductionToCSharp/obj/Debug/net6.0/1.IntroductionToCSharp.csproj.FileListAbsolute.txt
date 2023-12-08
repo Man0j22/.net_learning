@@ -1,0 +1,15 @@
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\net6.0\1.IntroductionToCSharp.exe
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\net6.0\1.IntroductionToCSharp.deps.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\net6.0\1.IntroductionToCSharp.runtimeconfig.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\net6.0\1.IntroductionToCSharp.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\net6.0\1.IntroductionToCSharp.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net6.0\1.IntroductionToCSharp.csproj.AssemblyReference.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net6.0\1.IntroductionToCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net6.0\1.IntroductionToCSharp.AssemblyInfoInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net6.0\1.IntroductionToCSharp.AssemblyInfo.cs
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net6.0\1.IntroductionToCSharp.csproj.CoreCompileInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net6.0\1.IntroductionToCSharp.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net6.0\refint\1.IntroductionToCSharp.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net6.0\1.IntroductionToCSharp.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net6.0\1.IntroductionToCSharp.genruntimeconfig.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\net6.0\ref\1.IntroductionToCSharp.dll
