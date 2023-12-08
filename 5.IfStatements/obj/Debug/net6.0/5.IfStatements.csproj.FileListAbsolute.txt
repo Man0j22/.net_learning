@@ -1,0 +1,15 @@
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\bin\Debug\net6.0\5.IfStatements.exe
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\bin\Debug\net6.0\5.IfStatements.deps.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\bin\Debug\net6.0\5.IfStatements.runtimeconfig.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\bin\Debug\net6.0\5.IfStatements.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\bin\Debug\net6.0\5.IfStatements.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\obj\Debug\net6.0\5.IfStatements.csproj.AssemblyReference.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\obj\Debug\net6.0\5.IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\obj\Debug\net6.0\5.IfStatements.AssemblyInfoInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\obj\Debug\net6.0\5.IfStatements.AssemblyInfo.cs
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\obj\Debug\net6.0\5.IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\obj\Debug\net6.0\5.IfStatements.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\obj\Debug\net6.0\refint\5.IfStatements.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\obj\Debug\net6.0\5.IfStatements.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\obj\Debug\net6.0\5.IfStatements.genruntimeconfig.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\5.IfStatements\obj\Debug\net6.0\ref\5.IfStatements.dll

@@ -1,0 +1,15 @@
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\bin\Debug\net6.0\4.CommonOperators.exe
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\bin\Debug\net6.0\4.CommonOperators.deps.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\bin\Debug\net6.0\4.CommonOperators.runtimeconfig.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\bin\Debug\net6.0\4.CommonOperators.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\bin\Debug\net6.0\4.CommonOperators.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\obj\Debug\net6.0\4.CommonOperators.csproj.AssemblyReference.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\obj\Debug\net6.0\4.CommonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\obj\Debug\net6.0\4.CommonOperators.AssemblyInfoInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\obj\Debug\net6.0\4.CommonOperators.AssemblyInfo.cs
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\obj\Debug\net6.0\4.CommonOperators.csproj.CoreCompileInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\obj\Debug\net6.0\4.CommonOperators.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\obj\Debug\net6.0\refint\4.CommonOperators.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\obj\Debug\net6.0\4.CommonOperators.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\obj\Debug\net6.0\4.CommonOperators.genruntimeconfig.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\4.CommonOperators\obj\Debug\net6.0\ref\4.CommonOperators.dll

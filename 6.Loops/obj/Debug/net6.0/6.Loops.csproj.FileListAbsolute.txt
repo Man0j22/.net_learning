@@ -1,0 +1,15 @@
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\bin\Debug\net6.0\6.Loops.exe
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\bin\Debug\net6.0\6.Loops.deps.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\bin\Debug\net6.0\6.Loops.runtimeconfig.json
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\bin\Debug\net6.0\6.Loops.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\bin\Debug\net6.0\6.Loops.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\obj\Debug\net6.0\6.Loops.csproj.AssemblyReference.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\obj\Debug\net6.0\6.Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\obj\Debug\net6.0\6.Loops.AssemblyInfoInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\obj\Debug\net6.0\6.Loops.AssemblyInfo.cs
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\obj\Debug\net6.0\6.Loops.csproj.CoreCompileInputs.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\obj\Debug\net6.0\6.Loops.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\obj\Debug\net6.0\refint\6.Loops.dll
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\obj\Debug\net6.0\6.Loops.pdb
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\obj\Debug\net6.0\6.Loops.genruntimeconfig.cache
+C:\Users\M1077351\source\repos\IntroductionToCSharp\6.Loops\obj\Debug\net6.0\ref\6.Loops.dll
